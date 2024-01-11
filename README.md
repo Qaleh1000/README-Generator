@@ -20,7 +20,8 @@ We've developed a command-line tool that serves as a proficient READ ME generato
 
 Screen recording of final product:
 
-![Demonstration 1 ](./starter/Screen%20Recording%202024-01-11%20at%2016.44.31.mov)
+https://github.com/Qaleh1000/README-Generator/assets/133378168/815186b4-738a-4be4-822f-6d17cfeee24b
+
 
 ## Collaborators
 
