@@ -20,6 +20,8 @@ We've developed a command-line tool that serves as a proficient READ ME generato
 
 Screen recording of final product:
 
+![Demonstration 1 ](./starter/Screen%20Recording%202024-01-11%20at%2016.44.31.mov)
+
 ## Collaborators
 
 I worked on this challenge with Ikran Hussein GitHub: https://github.com/Ikran1
